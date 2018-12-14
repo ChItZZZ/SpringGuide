@@ -1,6 +1,6 @@
 package com.shzhong.springguide;
 
-import com.shzhong.springguide.service.HelloSender;
+import com.shzhong.springguide.rabbitmq.service.HelloSender;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;

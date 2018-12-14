@@ -1,4 +1,4 @@
-package com.shzhong.springguide.service;
+package com.shzhong.springguide.rabbitmq.service;
 
 import org.springframework.amqp.core.AmqpTemplate;
 import org.springframework.beans.factory.annotation.Autowired;

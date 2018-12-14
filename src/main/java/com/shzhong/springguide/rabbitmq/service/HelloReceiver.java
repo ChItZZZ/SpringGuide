@@ -1,4 +1,4 @@
-package com.shzhong.springguide.service;
+package com.shzhong.springguide.rabbitmq.service;
 
 import org.springframework.amqp.rabbit.annotation.RabbitHandler;
 import org.springframework.amqp.rabbit.annotation.RabbitListener;
